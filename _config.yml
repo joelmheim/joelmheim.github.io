@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Jørn Ølmheim"
-title: "{ Olmheim.com }"
+title: "Olmheim.com"
 description: "Blog and website of Jørn Ølmheim, blogging mainly for tech. Opinions expressed are mine."
 keywords: "olmheim, jorn, ølmheim, jørn, personal, blog, software architecture, technology, agile"
 favicon: "/img/favicon.ico"
@@ -91,9 +91,9 @@ linkedin-share: True
 reddit-share: True
 google-plus-share: True
 tumblr-share: True
-pinterest-share: True
+pinterest-share: False
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
 disqus-shortname: "joelmheim"
 
@@ -136,8 +136,6 @@ social:
     url: "https://no.linkedin.com/in/joelmheim"
   - title: "instagram"
     url: "https://www.instagram.com/joelmheim/"
-#  - title: "bitcoin"
-#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
