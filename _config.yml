@@ -22,7 +22,7 @@ google-tracking-id: "UA-20516215-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 #############
 # HTML Head #
@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/coffee.png"
 
 background-img: "../img/intro-bg.jpg"
 
