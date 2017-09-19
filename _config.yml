@@ -155,7 +155,7 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Tags: 'tag-cloud'
-#  Timeline: 'timeline'
+  Pub: 'publications'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
